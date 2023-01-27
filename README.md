@@ -1,6 +1,11 @@
 # README #
 # Learning Git
 
+## Table of Contents
+-example_file.txt
+-Important steps for git workflow
+-Just for fun
+
 Important steps for git workflow:
 
 1. Intialize repository with git init
@@ -34,6 +39,7 @@ and it actually works for you.
 Angels sing, and a light suddenly fills the room.
 
 - "goddamn idiotic truckload of sh*t": when it breaks."
+
 
 
 
