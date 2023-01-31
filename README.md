@@ -5,6 +5,7 @@
 -example_file.txt
 -Important steps for git workflow
 -Just for fun
+-README file update from GitHub remote repo
 
 Important steps for git workflow:
 
@@ -40,6 +41,12 @@ Angels sing, and a light suddenly fills the room.
 
 - "goddamn idiotic truckload of sh*t": when it breaks."
 
-
+README file update from GitHub remote repo
+1/31/23 Learning how to pull files from this remote repo
+down to my local repo. These edits were made on GitHub, 
+which is for learning purposes only. Generally we do not
+want to work from the remote repo, rather is it best to 
+make updates from the local repo then push them to the 
+remote repo. 
 
 
